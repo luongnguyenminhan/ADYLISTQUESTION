@@ -1,0 +1,33 @@
+What does the standard deviation measure in a dataset, and how does it relate to data variability?
+A) Standard deviation measures the mean of the data, and it indicates how close data points are to the mean.
+B) Standard deviation measures the spread or dispersion of data points in a dataset, providing a quantifiable way to understand data variability.
+C) Standard deviation calculates the median of a dataset, and it indicates data outliers.
+D) Standard deviation measures the range of data values in a dataset.
+
+When creating a scatter plot for data visualization, what does each point on the plot typically represent, and how is it used in regression analysis?
+A) Each point represents a mean value, and it's used to calculate standard error.
+B) Each point represents a data outlier, and it's used for data cleaning.
+C) Each point represents an observation with two variables (X and Y), and it's used to visualize the relationship between these variables, often used in regression analysis.
+D) Each point represents a prediction, and it's used for model validation.
+
+In regression analysis, what is the primary goal when fitting a regression model to a dataset?
+A) To calculate the standard error of the model
+B) To create a scatter plot
+C) To identify and quantify the relationship between one or more independent variables (predictors) and a dependent variable (response)
+D) To compute the mean of the dependent variable
+
+What is the formula to calculate the coefficient of determination (R-squared) in regression analysis, and what does R-squared represent?
+A) R-squared = 1 - (Sum of Squared Residuals) / (Sum of Squared Total)
+R-squared represents the correlation coefficient between two variables.
+B) R-squared = (Sum of Squared Residuals) / (Sum of Squared Total)
+R-squared represents the variance explained by the regression model.
+C) R-squared = 1 - (Sum of Squared Residuals) / (Sum of Squared Explained Variance)
+R-squared represents the significance level of the regression model.
+D) R-squared = (Sum of Squared Residuals) / (Sum of Squared Explained Variance)
+R-squared represents the model's standard error.
+
+In statistics and probability, what is the central limit theorem, and why is it important in data analysis?
+A) The central limit theorem states that the standard deviation of a sample is equal to the standard deviation of the population.
+B) The central limit theorem states that the mean of a sufficiently large random sample follows a normal distribution, regardless of the population distribution. It's important because it allows for the application of many statistical techniques to non-normally distributed data.
+C) The central limit theorem states that the variance of a sample is equal to the variance of the population.
+D) The central limit theorem states that the sample size must always be small for valid statistical analysis.

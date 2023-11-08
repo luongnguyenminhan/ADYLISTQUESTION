@@ -1,0 +1,34 @@
+In the data science process, what is the first step when tackling a new problem?
+A) Collecting and cleaning data
+B) Building a machine learning model
+C) Identifying the problem and defining objectives
+D) Visualizing data
+ANSWER: C
+
+What is the role of exploratory data analysis (EDA) in the data science process?
+A) Building predictive models
+B) Cleaning and preprocessing data
+C) Identifying patterns, trends, and outliers in the data
+D) Deploying machine learning models
+ANSWER: C
+
+When selecting an approach to solve a data science problem, what does it mean to choose a "supervised" approach?
+A) The approach requires expert supervision at all times.
+B) The approach uses labeled data to train a model to make predictions or classifications.
+C) The approach relies on unsupervised learning techniques.
+D) The approach only works on small datasets.
+ANSWER: B
+
+What is the primary goal of data preprocessing in the data science pipeline?
+A) Building predictive models
+B) Feature selection
+C) Cleaning and preparing data for analysis
+D) Model deployment
+ANSWER: C
+
+In the data science process, which step involves evaluating the performance of a predictive model using metrics and techniques to ensure it meets the project's objectives?
+A) Data collection
+B) Data preprocessing
+C) Model deployment
+D) Model evaluation
+ANSWER: D

@@ -1,0 +1,34 @@
+In Python, what is the purpose of a lambda function, and can you provide an example of when you might use one in data science?
+A) Lambda functions are used for regular expressions.
+B) Lambda functions are primarily used for printing messages.
+C) Lambda functions allow you to create small, anonymous functions on the fly and are often used for data transformations or filtering operations.
+D) Lambda functions are used for creating classes in Python.
+ANSWER: C
+
+Which Python library is commonly used for data manipulation and analysis, including handling tabular data, time series, and working with numerical arrays?
+A) Numpy
+B) Pandas
+C) Matplotlib
+D) Scikit-learn
+ANSWER: B
+
+What does API stand for, and why is it important in the context of data science and machine learning?
+A) API stands for Advanced Python Integration, and it is used for integrating Python with other programming languages.
+B) API stands for Application Programming Interface, and it is crucial for accessing and interacting with external services, data sources, and libraries, facilitating data retrieval and model deployment.
+C) API stands for Artificial Programming Intelligence, and it is used for training machine learning models.
+D) API stands for Advanced Python Interface, and it is necessary for creating interactive Python applications.
+ANSWER: B
+
+In data science, why is it beneficial to use virtual environments when working with Python?
+A) Virtual environments are not relevant in data science.
+B) Virtual environments are primarily for web development.
+C) Virtual environments allow you to isolate and manage project-specific dependencies, ensuring that different projects do not interfere with each other.
+D) Virtual environments are used for creating virtual reality applications.
+ANSWER: C
+
+Which Python library is commonly used for machine learning tasks, including classification, regression, clustering, and more, and is often used for predictive modeling in data science projects?
+A) Numpy
+B) Pandas
+C) Matplotlib
+D) Scikit-learn
+ANSWER: D

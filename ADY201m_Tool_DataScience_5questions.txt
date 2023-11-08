@@ -1,0 +1,33 @@
+In the context of data science, what is the primary purpose of containerization tools like Docker, and how do they benefit the development and deployment of data science projects?
+A) Containerization tools are used to create visualizations for data science projects.
+B) The primary purpose of containerization tools is to package data science libraries and dependencies in a consistent and isolated environment, ensuring reproducibility, portability, and ease of deployment.
+C) Containerization tools are designed for data preprocessing tasks.
+D) Containerization tools are only relevant for web development.
+
+When working with big data in data science projects, which distributed computing framework is commonly used for large-scale data processing and is known for its fault tolerance and scalability?
+A) R
+B) Apache Hadoop
+C) Pandas
+D) Scikit-learn
+E) None of the above
+ANSWER: B
+
+What is the primary purpose of version control systems, such as Git, in the context of data science, and how do they facilitate collaboration and project management?
+A) Version control systems are used for creating data visualizations.
+B) Version control systems help track changes to code, data, and project files, allowing multiple team members to collaborate, maintain a history of project changes, and manage conflicts.
+C) Version control systems are focused on data analysis.
+D) Version control systems are primarily used for data cleaning.
+
+In data science, what is the role of continuous integration/continuous deployment (CI/CD) pipelines, and how do they streamline the development and deployment of machine learning models?
+A) CI/CD pipelines are used for statistical analysis.
+B) CI/CD pipelines facilitate the automated testing, integration, and deployment of machine learning models, ensuring that changes can be quickly and reliably deployed into production.
+C) CI/CD pipelines are focused on data collection.
+D) CI/CD pipelines are primarily used for data preprocessing.
+
+Which tool or framework is commonly used for interactive data visualization and dashboard creation in data science projects, providing a way to explore and present data to stakeholders in a user-friendly manner?
+A) Docker
+B) Spark
+C) Jupyter Notebook
+D) Tableau
+E) None of the above
+ANSWER: D

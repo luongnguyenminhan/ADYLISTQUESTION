@@ -1,0 +1,34 @@
+In the context of data science model deployment, what is the primary purpose of a feedback loop?
+A) To train the model
+B) To continuously improve and update the model
+C) To collect initial data
+D) To visualize the data
+ANSWER: B
+
+Which algorithm is commonly used for online learning and real-time data processing in data science deployment?
+A) Random Forest
+B) Decision Tree
+C) Stochastic Gradient Descent (SGD)
+D) K-Means
+ANSWER: C
+
+What is one of the key stages in the model deployment process where you assess model performance in a controlled environment before deploying it to production?
+A) Data Collection
+B) Model Training
+C) Model Validation
+D) Model Deployment
+ANSWER: C
+
+In data science model deployment, which of the following is NOT typically part of the model deployment pipeline stages?
+A) Pre-processing and feature engineering
+B) Model evaluation
+C) Model interpretation
+D) Model retraining
+ANSWER: D
+
+When deploying a machine learning model, what is an important consideration to ensure the model's ethical and fair use?
+A) Training the model with biased data
+B) Regularly updating the model without evaluation
+C) Monitoring and addressing bias and fairness issues
+D) Deploying the model without any evaluation
+ANSWER: C

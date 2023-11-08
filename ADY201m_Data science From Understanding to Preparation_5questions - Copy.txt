@@ -1,0 +1,34 @@
+In the data understanding phase, what is the primary goal of feature selection for a predictive modeling task?
+A) To include all available features for maximum information
+B) To reduce the dimensionality of the dataset by eliminating irrelevant or redundant features
+C) To overfit the model with a large number of features
+D) To visualize the data distribution
+ANSWER: B
+
+During the data preparation phase, what is the purpose of imputing missing data, and what are some common techniques for imputation?
+A) To ignore missing data; it has no impact on the model.
+B) To fill in missing values with zeros.
+C) To handle missing values to avoid bias in the analysis, and common techniques include mean imputation and predictive modeling-based imputation.
+D) To remove rows with missing data from the dataset.
+ANSWER: C
+
+What is the term for the process of transforming categorical variables into a numerical format that machine learning algorithms can work with during data preparation?
+A) Categorical encoding
+B) Categorical deletion
+C) Categorical aggregation
+D) Categorical visualization
+ANSWER: A
+
+In data preparation, what is the purpose of scaling and standardizing numerical features, and how does it impact machine learning algorithms?
+A) Scaling and standardizing are not necessary in data preparation.
+B) Scaling and standardizing help balance feature weights and ensure that features are on the same scale, improving algorithm performance, especially for distance-based algorithms.
+C) Scaling and standardizing lead to overfitting.
+D) Scaling and standardizing are only relevant for time series data.
+ANSWER: B
+
+What is the primary goal of data sampling in the data preparation phase, and what are two common types of data sampling techniques used in data science?
+A) The goal is to introduce randomness into the dataset; common techniques include deterministic and stratified sampling.
+B) The goal is to increase the dataset size; common techniques include oversampling and undersampling.
+C) The goal is to remove outliers from the dataset; common techniques include mean removal and median filtering.
+D) The goal is to aggregate data; common techniques include clustering and hierarchical sampling.
+ANSWER: B

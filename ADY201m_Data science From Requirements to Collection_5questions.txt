@@ -1,0 +1,34 @@
+What is the initial step when transitioning from project requirements to data collection in the data science process?
+A) Data analysis
+B) Data preprocessing
+C) Data collection planning
+D) Model deployment
+ANSWER: C
+
+In data science, what is the term for the process of identifying and understanding the data sources, data availability, and potential data collection challenges?
+A) Data analysis
+B) Data wrangling
+C) Data collection planning
+D) Data cleaning
+ANSWER: C
+
+Which of the following best describes the concept of a "data dictionary" in the context of data collection for a data science project?
+A) A book on data science techniques
+B) A document that defines and describes the data used in the project, including variable names and definitions
+C) A data visualization tool
+D) A machine learning model
+ANSWER: B
+
+When preparing to collect data for a data science project, what are some common methods for sourcing data?
+A) Generating data from scratch
+B) Purchasing data from external providers
+C) Using existing datasets
+D) Collecting data from social media
+ANSWER: B and C
+
+What is an important consideration in data collection for ensuring the privacy and security of sensitive information?
+A) Collecting as much data as possible
+B) Sharing data openly with the public
+C) Implementing data encryption and access controls
+D) Data collection has no privacy or security implications
+ANSWER: C

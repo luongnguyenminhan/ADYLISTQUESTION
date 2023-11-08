@@ -1,0 +1,7 @@
+
+Which of the following sorting algorithm is of divide and conquer type?
+A) Bubble sort
+B) Insertion sort
+C) Quick sort
+D) Merge sort
+ANSWER: C

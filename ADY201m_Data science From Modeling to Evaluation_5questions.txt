@@ -1,0 +1,34 @@
+In the context of data science, what is the primary goal of feature engineering during the modeling phase?
+A) To overfit the model
+B) To create new data
+C) To select and transform relevant features for modeling
+D) To generate more training data
+ANSWER: C
+
+Which evaluation metric is commonly used for assessing the performance of classification models, especially when dealing with imbalanced datasets?
+A) Mean Absolute Error (MAE)
+B) Root Mean Square Error (RMSE)
+C) Accuracy
+D) F1 Score
+ANSWER: D
+
+When developing a predictive model, what is the purpose of splitting the dataset into training and testing sets during the modeling phase?
+A) To increase the dataset size
+B) To keep the entire dataset for training
+C) To evaluate the model's performance on unseen data
+D) To eliminate outliers from the dataset
+ANSWER: C
+
+In the modeling phase, what is the term for the process of finding the best hyperparameters for a machine learning algorithm to optimize model performance?
+A) Feature selection
+B) Model training
+C) Hyperparameter tuning
+D) Data preprocessing
+ANSWER: C
+
+Which type of model validation technique involves dividing the dataset into multiple subsets, iteratively training and testing the model on different subsets, and then averaging the results to assess model performance?
+A) Cross-validation
+B) Random sampling
+C) Bootstrap sampling
+D) Hold-out validation
+ANSWER: A
